@@ -26,7 +26,7 @@ Also at BBF: built booking flows and the Prolific payout system for a 1,413-pers
 
 ### Tools
 
-Python, pandas, GeoPandas, rasterio, PyTorch, scikit-learn, XGBoost, Pyodide, GitHub Actions, Claude Code
+Python, pandas, GeoPandas, rasterio, PyTorch, scikit-learn, XGBoost, SQL, Pyodide, GitHub Actions, Claude Code
 
 ### Contact
 
