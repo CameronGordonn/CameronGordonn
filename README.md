@@ -24,10 +24,6 @@ Open to data engineering, ML, and data science roles in San Diego, Los Angeles, 
 
 Also at BBF: built booking flows and the Prolific payout system for a 1,413-person real-money A/B test that doubled airline donation rates, from 18% to 42%.
 
-### Tools
-
-Python, pandas, GeoPandas, rasterio, PyTorch, scikit-learn, XGBoost, SQL, Pyodide, GitHub Actions, Claude Code
-
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/cameron-gordon-3243662b8)
