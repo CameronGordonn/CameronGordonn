@@ -10,7 +10,7 @@
 
 </div>
 
-I turn messy public data like aerial imagery, parcel records, permits, lidar, and smart-meter readings into pipelines people can make decisions with. B.S. in Applied Mathematics with Highest Honors, UC Santa Cruz, 2026. Looking for data engineering, ML, and data science roles.
+I turn messy public data like aerial imagery, parcel records, permits, lidar, and smart-meter readings into pipelines people can make decisions with. Looking for data engineering, ML, and data science roles. B.S. in Applied Mathematics with Highest Honors, UC Santa Cruz, 2026.
 
 ### Projects
 
